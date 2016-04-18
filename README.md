@@ -5,7 +5,7 @@ Plot 1: Normalized Fractional Growth in Consumer Complaints (2011-15) : A statew
 
 Plot 2 : Graphical Contingency table (Company Vs. Product) : A graphical representation of the the distribution of complaints across different companies for a selected set of products. 
 
-Company Names and Abbv.
+Company Names and Abbreviations
 
 BOA : Bank of America; 
 WF : Wells Fargo & Company; 
@@ -17,7 +17,7 @@ TIH : TransUnion Intermediate Holdings, Inc.;
 Ocw : Ocwen; 
 Cap1 : Capital One; 
 
-Product Names and Abbv.
+Product Names and Abbreviations
 
 Mrtgage : Mortgage; 
 Debt_Coll : Debit Collection; 
