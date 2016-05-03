@@ -27,9 +27,11 @@ Bnk_Srvc : Bank Account and Services;
 
 Plot 3 : Rudimentary Company Scores for 15 Companies 
 
-Weighing Function = WF1 * WF2
-WF1 = Fraction of Increase in Complaints (2013-2015) 
-WF2 = Fraction of disputed complaints 
+Weighing Function = WF1 * WF2         where, 
+WF1 = Fraction of Increase in Complaints (2013-2015)  and   
+WF2 = Fraction of disputed complaints. 
+
+
 Company score = SUM OVER PRODUCTS (Product Weight * Complaint Volume of that Product)
 
 
