@@ -24,3 +24,12 @@ Debt_Coll : Debit Collection;
 Credit_Rep : Credit Report; 
 Credit_Crd : Credit Card; 
 Bnk_Srvc : Bank Account and Services; 
+
+Plot 3 : Rudimentary Company Scores for 15 Companies 
+
+Weighing Function = WF1 * WF2
+WF1 = Fraction of Increase in Complaints (2013-2015) 
+WF2 = Fraction of disputed complaints 
+Company score = SUM OVER PRODUCTS (Product Weight * Complaint Volume of that Product)
+
+
