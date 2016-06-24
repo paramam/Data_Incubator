@@ -1,4 +1,6 @@
-# Data_Incubator
+# The Trust Metric
+Based on the consumer complaint database - the trust metric scores financial corporations in terms of their service history!
+
 Description of Plots
 
 Plot 1: Normalized Fractional Growth in Consumer Complaints (2011-15) : A statewise growth picture of fractional increase in Consumer Complaint volume, normalized by the Maximum growth across a period of 5 years.
